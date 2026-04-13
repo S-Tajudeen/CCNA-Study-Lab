@@ -1,0 +1,11 @@
+Lab 01 — Network Devices
+
+Topology:
+2x Cisco 2911 Router, 2x Cisco 2960 Switch, 2x ASA 5505 Firewall  
+2x PC, 2x Server, 1x Laptop (attacker)  
+Connected using Packet Tracer auto-connection type.
+
+Key Takeaways:
+Routers connect different networks (Layer 3)
+Switches connect devices within a LAN (Layer 2)
+Firewalls sit at the network boundary and filter traffic
